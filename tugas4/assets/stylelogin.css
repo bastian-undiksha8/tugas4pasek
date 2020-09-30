@@ -1,0 +1,91 @@
+
+body {
+    background: lightblue;
+}
+
+
+
+h2 {
+    margin: 0;
+    font-size: 18px;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrap {
+
+    width: 1000px;
+    overflow: hidden;
+    MARGIN: AUTO;
+}
+
+.header {
+   
+    width: 1000px;
+    height: 150px;
+}
+
+#menu {
+    width: 1000px;
+    height: 50px;
+    background: #acac9b;
+}
+
+#menu ul {
+    padding: 0;
+    margin: 0;
+
+}
+
+#menu ul li {
+    display: inline;
+    margin-left: 25px;
+    line-height: 50px;
+    font-size: 20px;
+    border: 1px solid #eee;
+    padding: 5px 50px;
+    border-radius: 20px;
+    background: 8c8c00;
+}
+
+#menu ul li a {
+    color: #fff;
+}
+
+#content {
+    width: 1000px;
+    overflow: hidden;
+}
+
+#kiri {
+    width: 680px;
+    padding: 10;
+    float: left;
+}
+
+#kiri img {
+    float: left;
+   
+}
+
+#kanan {
+    width: 300px;
+    height: 400px;
+  
+    float: left;
+}
+
+#footer {
+    width: 1000px;
+    height: 50px;
+    background: #104000;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+}
